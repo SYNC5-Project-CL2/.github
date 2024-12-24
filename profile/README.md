@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-## 안녕하세요. 윤소영입니다. <a href="https://www.youtube.com/watch?v=wFSbAhaV2nI&t=51s" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube" style="height: 30px;">
+## 안녕하세요. 윤소영입니다. <a href="https://www.youtube.com/watch?v=-P4DSogik6M" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube" style="height: 30px;">
 
 <br>
 
